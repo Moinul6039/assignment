@@ -1,0 +1,36 @@
+.main-1{
+    background: rgba(229, 84, 115, 0.10);
+    width: 1920px;
+    height: 850px;
+    
+}
+.picture-1{
+    padding: auto;   
+    width: 635px;
+    height: 500px;
+    flex-shrink: 0;
+    display: flex;
+}
+.pri-button{
+    border-radius: 9px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+}
+#description-2{
+    color: rgba(39, 39, 39, 0.60);
+  
+    font-size: 18px;
+     font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+}
+.section-3{
+    width: 1922px;
+    height: 620px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
