@@ -10,6 +10,7 @@
     height: 500px;
     flex-shrink: 0;
     display: flex;
+    justify-content: left;
 }
 .pri-button{
     border-radius: 9px;
@@ -33,4 +34,34 @@
     flex-shrink: 0;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
+}
+.section-4-main{
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+   
+}
+.section-5-main{
+    color: #111010;
+    width: 1922px;
+    height: 449px;
+    flex-shrink: 0;
+}
+.section-5-title{
+    font-size: 48px ;
+}
+.section-5{
+    
+    color: rgba(255, 255, 255, 0.90); 
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+}
+#text-pri{
+   color: #E55473; 
+}
+#flower-shop-aboutz{
+    margin: 18px;
 }
